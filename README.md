@@ -1,0 +1,2 @@
+# contemporary-architecture-08
+Waffle構造をgrasshopperでスタディする
